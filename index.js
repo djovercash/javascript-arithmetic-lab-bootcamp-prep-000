@@ -1,15 +1,15 @@
 function add(a, b){
-  console.log(a+b);
+  return a + b;
 };
 
 function subtract(){
-  console.log(a-b);
+  return a - b;
 };
 
 function multiply(){
-  console.log(a*b);
+  return a * b;
 };
 
 function divide(){
-  console.log(a/b);
+  return a / b;
 };
